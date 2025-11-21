@@ -125,9 +125,9 @@ ORDER BY avg_net_rate_per_room DESC;
 Upload your screenshots into a folder called `screenshots/` and update below:
 
 ```markdown
-![Tables Overview](screenshots/tables.png)  
-![Query Execution](screenshots/query.png)  
-![Results](screenshots/results.png)  
+![Tables Overview](table_overview_ss.png)  
+![Query Execution](Query_Execution_ss.png)  
+![Results](Query_Result_ss.png)  
 ```
 
 ---
