@@ -122,13 +122,15 @@ ORDER BY avg_net_rate_per_room DESC;
 
 ## 📸 Screenshots
 
-Upload your screenshots into a folder called `screenshots/` and update below:
+### 1️⃣ Database Tables Overview
+![Tables Structure](table_overview_ss.png)
 
-```markdown
-![Tables Overview](table_overview_ss.png)  
-![Query Execution](Query_Execution_ss.png)  
-![Results](Query_Result_ss.png)  
-```
+### 2️⃣ Sample SQL Query Execution
+![Query Execution](Query_Execution_ss.png)
+
+### 3️⃣ Result Output
+![Result Preview](Query_Result_ss.png)
+
 
 ---
 
